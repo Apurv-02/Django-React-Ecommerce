@@ -1,0 +1,32 @@
+.success-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 83vh;
+    background-color: #f8f9fa;
+  }
+  
+  .success-message {
+    text-align: center;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .success-message h1 {
+    margin-bottom: 20px;
+    font-size: 2em;
+  }
+  
+  .success-message p {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+  }
+  
+  .success-message .btn {
+    font-size: 1em;
+    padding: 10px 20px;
+  }
+  

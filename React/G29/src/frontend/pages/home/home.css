@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 10px;
+}
+
+.featured-products {
+  background-color: skyblue;
+  color: red;
+}
+
+.promo-banner {
+  background-color: #f8d7da;
+  color: #721c24;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px 0;
+}
